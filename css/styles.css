@@ -120,7 +120,7 @@ a{
 
 .wrapper .sidebar ul li a:hover .icon,
 .wrapper .sidebar ul li a.active .icon{
-    color: #0c7db1;
+    color: #b10c1a;
 }
 
 .wrapper .sidebar ul li a:hover:before,
@@ -149,7 +149,7 @@ a{
 }
 
 .wrapper .section .top_navbar .hamburger a:hover{
-    color: #a2ecff;
+    color: #1faccf;
 
     
 body.active .wrapper .sidebar{
